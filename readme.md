@@ -1,3 +1,2 @@
-# 制作物
-Vue.jsで制作したToDoアプリです
-ローカルストレージで保存できるようにしてます
+## demo
+https://todo-vue-js.netlify.com/
